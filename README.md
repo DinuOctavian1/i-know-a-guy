@@ -17,7 +17,7 @@ Project is created with:
 ## Getting Started
 To get started with this project, clone the repository and install the necessary dependencies.
 ```
-git clone https://github.com/[username]/i-know-a-guy.git
+git clone https://github.com/DinuOctavian1/i-know-a-guy.git
 cd i-know-a-guy
 npm install
 ```
