@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Getting Started](#getting-started)
-*[Screenshots](#screenshots)
+* [Screenshots](#screenshots)
 
 ## General info
 I Know A Guy  is a web application that connects people with specific project needs with handymen who have the skills and expertise to complete those projects.
