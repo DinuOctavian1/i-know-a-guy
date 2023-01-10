@@ -15,7 +15,7 @@ Project is created with:
 * .NET Core Identity
 * ReactJS 
 
-##Screenshots
+## Screenshots
 Home Page
 ![image](https://user-images.githubusercontent.com/65591160/211617466-2e83dc3a-95aa-4d51-87e2-312e1bd82233.png)
 
